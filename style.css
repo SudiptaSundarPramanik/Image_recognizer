@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+b{
+    color: yellow;
+}
+#camera,#image{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#capture{
+    background-color: deepskyblue;
+    border-radius: 5%;
+}
+#identify{
+    background-color: lawngreen;
+    border-radius: 5%;
+}
